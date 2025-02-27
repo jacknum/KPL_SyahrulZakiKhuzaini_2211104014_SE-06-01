@@ -1,0 +1,7 @@
+D:\Kuliah\Praktikum KPL\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Kuliah\Praktikum KPL\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Kuliah\Praktikum KPL\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Kuliah\Praktikum KPL\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Kuliah\Praktikum KPL\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Kuliah\Praktikum KPL\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Kuliah\Praktikum KPL\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
